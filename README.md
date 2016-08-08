@@ -1,2 +1,2 @@
 # JAVA
-Completed programming assignments from Object-Oriented Programming (CS-249)
+A completed programming assignment from Object-Oriented Programming (CS-249)
