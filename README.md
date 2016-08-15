@@ -1,5 +1,5 @@
 # JAVA
-A completed programming assignment from Object-Oriented Programming (CS-249)
+Assignment from Object-Oriented Programming (CS-249)
 
 Assignment parameters:
 
